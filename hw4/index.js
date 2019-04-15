@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'This kind of paradox may be clearly perceived by anybody who happens to be hanging in mid-space, clinging to one arm of the Cross of St. Paul's.',
   'example3':
-      'Now these are the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot.'
+      'Now these are the generations of Terah. Terah begat Abram, Nahor, and Haran; and Haran begat Lot.'
   'example4':
       'You misled me by the term gentleman.'
 };
