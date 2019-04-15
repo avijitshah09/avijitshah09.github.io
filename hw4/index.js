@@ -10,9 +10,9 @@ const examples = {
   'example1':
       'Kinde Gentlemen, your paines are registred, Where euery day I turne the Leafe, To reade them.',
   'example2':
-      'This kind of paradox may be clearly perceived by anybody who happens to be hanging in mid-space, clinging to one arm of the Cross of St. Paul's.',
+      'This kind of paradox may be clearly perceived by anybody who happens to be hanging in mid-space, clinging to one arm of the Cross of St. Paul.',
   'example3':
-      'Now these are the generations of Terah. Terah begat Abram, Nahor, and Haran; and Haran begat Lot.'
+      'Now these are the generations of Terah. Terah begat Abram, Nahor, and Haran, and Haran begat Lot.'
   'example4':
       'You misled me by the term gentleman.'
 };
