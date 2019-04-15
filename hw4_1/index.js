@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Kinde Gentlemen, your paines are registred, Where euery day I turne the Leafe, To reade them.',
+      'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'This kind of paradox may be clearly perceived by anybody who happens to be hanging in mid-space, clinging to one arm of the Cross of St. Paul.',
+      'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Now these are the generations of Terah. Terah begat Abram, Nahor, and Haran, and Haran begat Lot.'
+      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'
   'example4':
-      'You misled me by the term gentleman.'
+      'Scepticism was NEW as much the result of knowledge, as knowledge is of scepticism.'
 };
 
 function status(statusText) {
